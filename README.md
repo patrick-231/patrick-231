@@ -6,3 +6,5 @@ pearheaded an overhaul of my previous job’s website conversion tactics, leadin
 Have onboarded and trained several new employees, who have all gone on to make significant contributions to the company.
 
 Seeking employment opportunities at forward-thinking companies, allowing me to implement innovative strategies and increase revenue and brand growth.
+
+Seeking employment opportunities at forward-thinking companies, allowing me to implement innovative strategies and increase revenue and brand growth
