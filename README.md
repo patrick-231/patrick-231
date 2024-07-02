@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Umukoro</h1>
 <h3 align="center">I have cultivated a deep passion for the world of web development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/200x150/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
 - 🔭 I’m currently working on [https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)
 
