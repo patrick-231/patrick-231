@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://umukoro-patrick-portfolio.netlify.app)
 <h1 align="center">Hi 👋, I'm Patrick Umukoro</h1>
 <h3 align="center">I have cultivated a deep passion for the world of web development</h3>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_images/1521475556797255683/Ry5tZ7f4_400x400.jpg">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/WHYTT/Desktop/CodingSchule-Application-Document/Coding%20Animations_files/2835b06c053a1fdab58a4b8d7006f73b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrick-231&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-231" /> </p>
 
