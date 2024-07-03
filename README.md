@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **p.o.umukoro@gmail.com**
 
-- 📄 Know about my [Experiences](https://flowcv.com/resume/swsfsecqgd)(https://flowcv.com/resume/swsfsecqgd)
+- 📄 Know about my [Experiences](https://flowcv.com/resume/swsfsecqgd)
 
 - ⚡ Fun fact **Competitive art was once an Olympic sport**
 
