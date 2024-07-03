@@ -50,8 +50,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-231&show_icons=true&locale=en&layout=compact" alt="patrick-231" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-231&show_icons=true&locale=en" alt="patrick-231" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-231&" alt="patrick-231" /></p>
+
