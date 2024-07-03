@@ -4,15 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on [https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)
+- 🔭 I’m currently working on [AWS] (https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)(https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)
 
-- 👨‍💻 All of my projects are available at [https://umukoro-patrick-portfolio.netlify.app/](https://umukoro-patrick-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio website] (https://umukoro-patrick-portfolio.netlify.app/)(https://umukoro-patrick-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **p.o.umukoro@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/swsfsecqgd](https://flowcv.com/resume/swsfsecqgd)
+- 📄 Know about my [Experiences] (https://flowcv.com/resume/swsfsecqgd)(https://flowcv.com/resume/swsfsecqgd)
 
 - ⚡ Fun fact **Competitive art was once an Olympic sport**
 
