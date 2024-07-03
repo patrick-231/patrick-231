@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+- 🎓 Studied Business with Informatic in [Fachhochschule Südwestfalen](https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php)
+- 👨‍💻 Full stack Web & app development at [WBS CODING SCHOOL](https://www.wbscodingschool.com/?_gl=1*cjex4m*_up*MQ..&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCjo5Si-euLwGTK1cjjbJNiiklXc0jy0bVov6g9C-RwQqnqGSzOjKQ4aAq9REALw_wcB)
 -  💭 I’m currently learning  [AWS re/Start](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)  <br/>
 
 - 👨‍💻 All of my projects are available at my [Portfolio website](https://umukoro-patrick-portfolio.netlify.app/)
@@ -15,6 +17,7 @@
 - 📄 Know about my [Experiences](https://flowcv.com/resume/swsfsecqgd)
 
 - ⚡ Fun fact **Competitive art was once an Olympic sport**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
