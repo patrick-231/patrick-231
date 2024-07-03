@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
--  🔭 I’m currently working on [AWS]([https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)(https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)) <br/>
+-  🔭 I’m currently working on [AWS] ([https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)(https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)) <br/>
 
 - 👨‍💻 All of my projects are available at [Portfolio website] (https://umukoro-patrick-portfolio.netlify.app/)(https://umukoro-patrick-portfolio.netlify.app/)
 
