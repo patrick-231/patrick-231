@@ -6,7 +6,7 @@
 
 -  🔭 I’m currently working on [AWS](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk) <br/>
 
-- 👨‍💻 All of my projects are available at [Portfolio website] (https://umukoro-patrick-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio website](https://umukoro-patrick-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
