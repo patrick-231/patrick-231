@@ -7,9 +7,6 @@
 - 🎓 Studied Business with Informatic in [Fachhochschule Südwestfalen](https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php)
 - 👨‍💻 Full stack Web & app development at [WBS CODING SCHOOL](https://www.wbscodingschool.com/?_gl=1*cjex4m*_up*MQ..&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCjo5Si-euLwGTK1cjjbJNiiklXc0jy0bVov6g9C-RwQqnqGSzOjKQ4aAq9REALw_wcB)
 -  💭 I’m currently learning  [AWS re/Start](https://awsrestart.instructure.com/courses/3103?invitation=PY4VTLejH9lpdhiPzyatK1qll3DGPMYF3gaQa3Xk)  <br/>
-
-- 👨‍💻 All of my projects are available at my [Portfolio website](https://umukoro-patrick-portfolio.netlify.app/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **p.o.umukoro@gmail.com**
@@ -19,10 +16,8 @@
 - ⚡ Fun fact **Competitive art was once an Olympic sport**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/okiemute-patrick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okiemute-patrick/" height="30" width="40" /></a>
-</p>
+
+
 
 <h3 align="left">💻 Tech Stack</h3>
 
